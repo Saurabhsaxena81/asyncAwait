@@ -17,7 +17,7 @@
 //     resolve("Promise resolved value");
 //   }, 40000);
 // });
-const API_URL = "https://api.github.com/users/Saurabhsaxena81";
+const API_URL = "https://api.github.com";
 // async function handlePromise() {
 //   /**
 //    * await is a keyword which can only be used inside in a async function
